@@ -14,18 +14,18 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 				description = "Expense Tracker REST API Documentation",
 				version = "v1.0",
 				contact = @Contact(
-						name = "Ramesh",
-						email = "javaguides.net@gmail.com",
-						url = "https://www.javaguides.net"
+						name = "Kathir",
+						email = "tskathir@gmail.com",
+						url = "https://www.google.com"
 				),
 				license = @License(
 					name = "Apache 2.0",
-					url = "https://www.javaguides.net/license"
+					url = "https://www.google.com"
 				)
 		),
 		externalDocs = @ExternalDocumentation(
 				description = "Expense Tracker REST API Documentation for Developers",
-				url = "https://www.javaguides.net/external-doc.html"
+				url = "https://www.google.com"
 		)
 )
 @SpringBootApplication
